@@ -35,3 +35,5 @@ function isVehicleOccupied(veh)
     end
     return false
 end
+
+    console.log('^3LOVELY-CAR-REMOVER^0 MADE BY LOVELY:')
