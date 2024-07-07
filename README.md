@@ -1,0 +1,2 @@
+# fivem-car-remover
+STANDALONE
